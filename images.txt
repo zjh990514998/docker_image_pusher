@@ -1,3 +1,2 @@
-amilys/embyserver:4.8.1.0
-portainer/agent:2.19.5
+agentscope/qwenpaw:latest
 jxxghp/moviepilot-v2:latest
