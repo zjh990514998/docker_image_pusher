@@ -1,2 +1,2 @@
 jxxghp/moviepilot-v2:latest
-goolashe/sillytavern:1.18.0
+agentscope/qwenpaw:latest
