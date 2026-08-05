@@ -1,3 +1,3 @@
-walkingd/tgto123:latest
+ghcr.io/roonlabs/roonserver:latest
 jxxghp/moviepilot-v2:latest
 agentscope/qwenpaw:latest
