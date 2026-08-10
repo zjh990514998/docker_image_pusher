@@ -1,3 +1,3 @@
-ghcr.io/roonlabs/roonserver:latest
+buaizheteng/smbox:latest
 jxxghp/moviepilot-v2:latest
 agentscope/qwenpaw:latest
